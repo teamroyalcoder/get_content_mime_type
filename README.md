@@ -1,6 +1,6 @@
 <pre>
 Using this simple [ you can say bigger one 🤪 ] function, you can extract or get the mime type of 
-a file or you can say content. But before for using this function you might have need done some 
+a file or you can say content using PHP. But before for using this function you might have need done some 
 pre-configuration, like you have to sure that you turned or configured 
 curl extension, filesystem releted extension and finfo extension in php.ini file.
 
