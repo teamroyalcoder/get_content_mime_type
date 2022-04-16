@@ -100,7 +100,7 @@ function get_content_mime_type($content)
                 if (is_readable($content) && is_executable($content)) {
                     $finfo = finfo_open(FILEINFO_MIME_TYPE);
                     $content_mime = finfo_file($finfo, $content);
-                    if ($content_mime === null | $content_mime === "") {
+                    if ($content_mime === null || $content_mime === "") {
                         $content_mime = "application/octet-stream";
                     } else {
                         $content_mime = $content_mime;
