@@ -23,5 +23,5 @@ Thanks for reading the explanation of this function or using my function.
 Have a good day.
 Md. Asaduzzaman Atik,
 On behalf of Team RoyalCoder
-visit www.teamroyalcoder.com for some real magic of tech.
+visit <a href="www.teamroyalcoder.com">www.teamroyalcoder.com</a> for some real magic of technology.
 </pre>
